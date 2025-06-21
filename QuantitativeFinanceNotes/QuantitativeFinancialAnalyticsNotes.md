@@ -1,5 +1,7 @@
 # Notes for the book in the title
 
+- **Point** - 1$ per share or 1 index unit.
+
 ## Terms
 
 - **Efficient Market Hypothesis (EMH)** - the belief that the markets are efficient and the set prices include all public information, hence there are no "under valued" or "over valued" assets.
@@ -24,3 +26,18 @@
   - **Bid price** - the amount that is offered for the purchase of a security.
   - **Ask price** - the amount that is required by the seller.
   - **Spread** - A “spread” between the bid and ask prices that serves to compensate those who make a market in the issue will typically exist. Depending upon the depth of the market, spreads may vary from 1 or 2 percent to as large as 5 percent. (Ask price - bid price)
+
+The primary (new issue) market is the first sale or new issue market. All Initial Public Offerings (IPOs) are new issues. When a firm (or government) sells its securities to the public, it is a primary transaction. After a bond or share is in the hands of the public, any trading in the security is said to be in the secondary market. Both exchange and OTC transactions can be secondary trades.
+
+- **Market order** - order to broker to buy or sell security at the best available price.
+- **Limit order** - specified a maximum (minimum) price that the customer is willing to pay (receive) to buy (sell) the stock.
+- **Stop order** - provides a price above (below) the current market price of the stock that, if reached by the market, the customer desires to trigger a buy (sell) market order.
+
+## SEC
+
+Forms required to be reliesed by companies by the SEC:
+
+- **10-K** - a detailed annual filing.
+- **10-Q** - a somewhat less detailed quarterly filing.
+- **8-K** - a filing required in the case of a special event or change in the firm's circumstances such as the resignation of a member of the company's board of directors.
+- **Proxy Statement** - indicates when and where the firm's annual meeting is to take place.
